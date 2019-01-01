@@ -2,7 +2,7 @@
 A Fun Dungeon game coded in C and C++ using Ncurses and several algorithms. The Game was developed through-out a semester as part of a CS course.
 
 -------------------------------------------------------------------------------------------------------------------------
-Make note that you will need to add the object_description and monster_description files in a folder named .rlg327   for this game to work.
+Make note that you will need to add the object_desc.txt and monster_desc.txt files in a folder named .rlg327   for this game to work.
 
 -------------------------------------------------------------------------------------------------------------------------
 Hello!
